@@ -1,0 +1,42 @@
+body {
+    background-size: cover;
+    background-color:lightcyan;
+    background-repeat: no-repeat;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100px;
+    border-width: 5px; border-style: solid; border-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Roboto';
+    color:#2aabe7;
+    font-size: 150px;
+
+   
+}
+
+img {
+
+    border: rgb(0, 0, 0,) 1px solid;
+}
+
+iframe {
+    border-radius: 10px;
+}
+
+a{
+    color:rgb(14, 90, 90) ;
+    font-family: 'Roboto';
+    font-size: 70px;
+}
+
+p {
+    color:rgb(0, 0, 0,) ;
+    font-family: 'Roboto';
+    font-size: 25px;
+
+}
